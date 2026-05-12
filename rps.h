@@ -1,4 +1,4 @@
-// rps.h
+// header file for ascii art and score heuristics
 #pragma once
 
 // Includes
